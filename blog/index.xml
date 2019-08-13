@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Eminarti&#39;s Journal</title>
+    <link>https://example.com/blog/</link>
+    <description>Recent content in Blogs on Eminarti&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>QUORA - Kondisi apakah yang menyebabkan anda menjadi tidak produktif sebagai software engineer?</title>
+      <link>https://example.com/blog/software-engineer-not-productive/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/software-engineer-not-productive/</guid>
+      <description>Halo! Kembali lagi dengan saya, yang memiliki mood naik turun untuk menjawab sebuah pertanyaan, padahal saya ingin sekali menjadi produktif dimulai dengan menulis jawaban di Quora. Sebelumnya postingan ini merupakan jawaban saya di Quora saat ada yang bertanya kondisi apakah yang menyebabkan anda menjadi tidak produktif sebagai software engineer?
+Nah, balik lagi di hari Senin, 12 Agustus 2019 (sengaja dicatat biar ingat tanggal bersejarah ini), pagi-pagi di kantor, setelah selesai sarapan pagi yang kesiangan :p dan sudah membereskan beberapa review PR yang ada di team, saya membuka Quora dan melihat ada beberapa pertanyaan masuk ke saya, dan taraaaa, pertanyaan ini menggelitik dan mengganggu saya untuk dijawab.</description>
+    </item>
+    
+    <item>
+      <title>Apakah Tuhan Bisa Marah Kepada Kita? Bisa</title>
+      <link>https://example.com/blog/what-if-god-angry/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/what-if-god-angry/</guid>
+      <description>Apakah Tuhan bisa marah sama kita? Bisa
+Tetapi marahnya Tuhan tidak akan mengurangi kasih Tuhan terhadap kita. Tuhan mengajarkan kita berbuat baik, bukan untuk membuat Dia mencintai kita. Tetapi karena Tuhan pengen beritahu kita bahwa itulah jalan untuk dapat tinggal bersamaNya. Kenapa? Karena Tuhan pengen kita bersama-sama dengan Dia. Karena Dia begitu sayang sama kita, Dia kasitau cara agar kita bisa tinggal bersama-sama dengan Dia.
+Dia tahu semua perjalanan kita, baik buruknya, jatuhnya dan bangunnya.</description>
+    </item>
+    
+  </channel>
+</rss>
