@@ -4,14 +4,17 @@
   
   <url>
     <loc>https://eminartiys.github.io/blog/</loc>
-    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eminartiys.github.io/</loc>
-    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eminartiys.github.io/blog/treasure-women-conf-2019-byjosecarol/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -27,7 +30,6 @@
   <url>
     <loc>https://eminartiys.github.io/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -36,21 +38,18 @@
   </url>
   
   <url>
-    <loc>https://eminartiys.github.io/tags/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://eminartiys.github.io/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eminartiys.github.io/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eminartiys.github.io/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
 </urlset>
